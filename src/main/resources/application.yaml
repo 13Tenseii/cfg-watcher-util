@@ -1,0 +1,7 @@
+jdbc.url:
+jdbc.login:
+jdbc.password:
+
+config-path: smpp.cfg
+interval-millis: 1000
+log-path: smsiu.log
